@@ -4,10 +4,6 @@ A React-based job board application designed to help developers explore React jo
 
 This is my **sixth project and my first project built with React** — an important step in my journey from Vanilla JavaScript to modern frontend development.
 
-## 🚀 Live Demo
-
-[View Live Demo](#)
-
 ## 💻 GitHub Repository
 
 https://github.com/Arvo-parham/React-jobs
